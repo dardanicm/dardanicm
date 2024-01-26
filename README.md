@@ -1,16 +1,14 @@
-### Hi there 👋
+#Hello, my name is Dardan!
+##Who am I?
 
-<!--
-**dardanicm/dardanicm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring computer programmer at Nora Frances Henderson.
+I am currently in grade 11, 3rd year of highschool, planning on continuing my computer programming journey.
+Currently learning Python, CSS, HTML, and JavaScript
 
-Here are some ideas to get you started:
+##My hobbies
+Swimming
+Videogames
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
