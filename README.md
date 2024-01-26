@@ -15,9 +15,6 @@
 - HTML
 - JavaScript
 
-## Projects:
-- 
-
 
 
 
